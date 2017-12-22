@@ -27,10 +27,10 @@ GIT
       warden (~> 1.2.3)
 
 GIT
-  remote: https://github.com/qinmingyuan/default_where.git
-  revision: cb696bbe886b9705f60db48c513e90e74d73209f
+  remote: https://github.com/schooltop/default_where.git
+  revision: 876bb16591ac45757209e578a47c7192b688feb3
   specs:
-    default_where (2.1.0)
+    default_where (2.0.0)
       activerecord (>= 4.0.0)
 
 GEM
